@@ -1,4 +1,4 @@
-<img src="https://github.com/noworryravi/noworryravi/blob/main/LinkedIn%20Banner.png" alt="banner" width="100vw" >
+ <img src="LinkedIn Banner.png" alt="banner img" width="100%">
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">🅰 𝓦ɛɮ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 from India.</h3>
 <br>
@@ -8,6 +8,8 @@
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS & JavaScript**
 
 - 📫 How to reach me **noworryravi@gmail.com**
+
+<img src="web dev image.jpg" alt="web" width="400px" align="right">
 
 
 ## 🌐 Socials:
@@ -28,5 +30,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noworryravi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
