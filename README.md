@@ -1,8 +1,6 @@
-<img src"G:\My Drive\Coding Images\LinkedIn Banner.png" >
-
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
-<img src"[G:\My Drive\Coding Images\LinkedIn Banner.png](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)" >
+<img align="right" width="400" alt="coding img" src="
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noworryravi&label=Profile%20views&color=0e75b6&style=flat" alt="noworryravi" /> </p>
 
@@ -14,8 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/noworryravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noworryravi" height="30" width="40" /></a>
-<a href="https://instagram.com/noworryravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noworryravi" height="30" width="40" /></a>
+<a href="https://twitter.com/noworryravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noworryravi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/noworryravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/noworryravi" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/noworryravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noworryravi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
