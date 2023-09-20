@@ -1,6 +1,7 @@
+![logo](
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
-<img align="right" width="400" alt="coding img" src="
+<img align="right" width="400" alt="coding img" src="https://github.com/noworryravi/noworryravi/blob/main/web%20dev%20image.jpg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noworryravi&label=Profile%20views&color=0e75b6&style=flat" alt="noworryravi" /> </p>
 
