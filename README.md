@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
-<h3 align="center">A passionate Web developer from India.</h3>
+<h3 align="center">**🅰 𝓦ɛɮ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗** from India.</h3>
 
 - 🌱 I’m currently learning **JavaScript & React JS**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS & JavaScript**
 
 - 📫 How to reach me **noworryravi@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/noworryravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noworryravi" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
