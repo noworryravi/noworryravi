@@ -1,6 +1,7 @@
+![logo](
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">🅰 𝓦ɛɮ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 from India.</h3>
-
+<br>
 
 - 🌱 I’m currently learning **JavaScript & React JS**
 
