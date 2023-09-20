@@ -9,7 +9,7 @@
 
 - 📫 You can reach me **noworryravi@gmail.com**
 
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="web" width="400px" align="right">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="web" width="380px" align="right">
 
 
 ## 🌐 Socials:
