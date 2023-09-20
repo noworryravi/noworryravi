@@ -1,3 +1,4 @@
+
  <img src="LinkedIn Banner.png" alt="banner img" width="100%">
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">🅰 𝓦ɛɮ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 from India.</h3>
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **noworryravi@gmail.com**
 
-<img src="web dev image.jpg" alt="web" width="400px" align="right">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="web" width="400px" align="right">
 
 
 ## 🌐 Socials:
