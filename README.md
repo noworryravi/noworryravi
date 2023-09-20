@@ -1,4 +1,4 @@
-![logo](https://github.com/noworryravi/noworryravi/blob/main/LinkedIn%20Banner.png)
+<img src="https://github.com/noworryravi/noworryravi/blob/main/LinkedIn%20Banner.png" alt="banner" width="100vw" align="center" >
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">🅰 𝓦ɛɮ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 from India.</h3>
 <br>
