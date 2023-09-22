@@ -1,4 +1,4 @@
-<img src="https://www.tatvasoft.com/outsourcing/wp-content/uploads/2021/10/What-is-Vue-js.jpg" alt="banner img" width="100%">
+<img src="https://bunnystudio.com/blog/wp-content/uploads/2020/06/animation-maker_JS_1.jpg" alt="banner img" width="100%">
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">🅰 𝓦ɛɮ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 from India.</h3>
 <br>
