@@ -1,4 +1,4 @@
-<img src="https://github.com/noworryravi/noworryravi/blob/main/LinkedIn%20Banner.png" alt="banner img" width="100%">
+<img src="https://t.me/c/1767016310/1077" alt="banner img" width="100%">
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">🅰 𝓦ɛɮ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 from India.</h3>
 <br>
