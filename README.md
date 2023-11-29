@@ -1,4 +1,4 @@
-<a href="https://ibb.co/27kZGdw"><img src="https://i.ibb.co/tMJLVDS/Linked-In-Banner.png" alt="Linked-In-Banner" border="0"></a>
+<a href="https://ibb.co/27kZGdw"><img src="https://i.ibb.co/tMJLVDS/Linked-In-Banner.png" alt="Linked-In-Banner" border="0" width="100%"></a>
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">🅰 𝓦ɛɮ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 from India.</h3>
 <br>
