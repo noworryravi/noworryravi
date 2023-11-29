@@ -1,4 +1,4 @@
-<img src="[https://media.licdn.com/dms/image/C5616AQFDVghGIVSukQ/profile-displaybackgroundimage-shrink_350_1400/0/1583960148445?e=1700697600&v=beta&t=Jm5LUcTxGEWO2FD-x3CIa3l-I-iUPkEfuCHRBQyyGTc](https://ibb.co/27kZGdw)" alt="banner img" width="100%">
+<img src="https://ibb.co/27kZGdw" alt="banner img" width="100%">
 <h1 align="center">Hi 👋, I'm Ravi Chauhan</h1>
 <h3 align="center">🅰 𝓦ɛɮ 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 from India.</h3>
 <br>
